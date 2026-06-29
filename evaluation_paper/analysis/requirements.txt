@@ -1,0 +1,5 @@
+# Analysis-only dependencies for evaluation_paper/ (separate from the main app).
+# CER/WER use a self-contained Levenshtein implementation (no jiwer needed).
+pandas>=2.0
+matplotlib>=3.7
+regex>=2023.0

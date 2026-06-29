@@ -1,0 +1,5 @@
+﻿lecture_id,kept_correct,fixed,introduced_flip,introduced_omission,still_wrong,net_failure_change
+acuteinflammation_02,20,0,0,0,1,0
+anthrax_01,24,0,0,0,0,0
+anticancerdrugs_02,10,0,0,0,0,0
+diuretics_01,32,4,5,3,2,4

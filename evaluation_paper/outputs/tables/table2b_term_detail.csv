@@ -1,0 +1,389 @@
+﻿lecture_id,term_id,canonical_english,category,ref_count,whisper1_english,whisper1_phonetic,ai_lecturenote_english,ai_lecturenote_phonetic,gpt4o_english,gpt4o_phonetic,gpt4o_prompted_english,gpt4o_prompted_phonetic,gpt4o_ailn_post_english,gpt4o_ailn_post_phonetic
+acuteinflammation_02,leukocyte,leukocyte,,17,0,17,15,3,1,16,0,12,15,0
+acuteinflammation_02,acute_inflammation,Acute Inflammation,,7,0,6,6,0,6,1,3,3,6,0
+acuteinflammation_02,vascular_permeability,Vascular Permeability,,7,0,6,6,0,4,3,0,3,7,0
+acuteinflammation_02,endothelium,endothelium,,6,0,7,7,0,0,7,0,6,7,0
+acuteinflammation_02,chemotaxis,chemotaxis,,5,1,4,4,0,0,5,0,5,6,0
+acuteinflammation_02,cytokine,cytokine,,5,0,4,3,2,0,5,0,4,5,0
+acuteinflammation_02,il-1,IL-1,,5,5,0,5,0,5,0,3,0,5,0
+acuteinflammation_02,c5a,C5a,,4,4,0,3,0,4,0,4,0,4,0
+acuteinflammation_02,chemoattractant,Chemoattractant,,4,0,6,3,0,0,8,0,7,4,0
+acuteinflammation_02,firm_adhesion,Firm Adhesion,,4,0,0,1,0,0,0,0,0,4,0
+acuteinflammation_02,histamine,Histamine,,4,0,4,4,0,2,2,0,4,4,0
+acuteinflammation_02,inflammation,Inflammation,,14,0,14,14,0,12,2,4,9,12,0
+acuteinflammation_02,injury,injury,,4,0,5,3,0,0,4,0,2,2,0
+acuteinflammation_02,integrin,integrin,,4,0,4,3,0,0,3,0,4,3,0
+acuteinflammation_02,margination,margination,,5,5,0,5,0,0,10,0,10,5,0
+acuteinflammation_02,neutrophil,neutrophil,,5,0,5,5,0,0,5,0,5,4,0
+acuteinflammation_02,rolling,rolling,,5,6,0,5,0,0,6,0,6,3,3
+acuteinflammation_02,stasis,Stasis,,4,0,4,3,1,2,2,0,2,4,0
+acuteinflammation_02,tnf,TNF,,5,5,0,5,0,5,0,5,0,5,0
+acuteinflammation_02,transmigration,transmigration,,4,4,0,4,0,0,4,0,0,4,0
+acuteinflammation_02,exudate,Exudate,,3,0,3,3,0,3,0,0,3,3,0
+acuteinflammation_02,fever,fever,,3,0,3,2,0,0,3,0,3,1,0
+acuteinflammation_02,leukotriene,leukotriene,,4,0,8,4,0,1,6,0,6,4,0
+acuteinflammation_02,macrophage,macrophage,,3,0,2,2,0,0,3,0,2,3,0
+acuteinflammation_02,pain,pain,,3,0,0,2,0,1,0,1,0,1,0
+acuteinflammation_02,pathogen,pathogen,,3,0,3,3,0,1,2,0,2,1,0
+acuteinflammation_02,prostaglandin,prostaglandin,,4,0,2,4,0,0,4,0,4,3,0
+acuteinflammation_02,selectin,selectin,,9,0,9,9,0,0,9,0,9,9,0
+acuteinflammation_02,vasodilation,vasodilation,,4,0,4,3,0,1,1,0,2,3,0
+acuteinflammation_02,vessel,Vessel,,4,0,0,2,0,3,0,0,0,2,0
+acuteinflammation_02,adhesion,adhesion,,6,1,1,2,0,0,2,0,0,6,0
+acuteinflammation_02,chemokine,chemokine,,2,0,2,2,0,0,2,0,1,2,0
+acuteinflammation_02,chronic_inflammation,Chronic Inflammation,,2,0,2,1,0,1,1,1,1,2,0
+acuteinflammation_02,cox_pathway,COX pathway,,2,0,2,2,0,0,3,0,2,2,0
+acuteinflammation_02,e-selectin,E-selectin,,2,0,0,2,0,0,0,0,0,2,0
+acuteinflammation_02,endogenous,Endogenous,,2,0,0,0,0,0,0,0,0,2,0
+acuteinflammation_02,exogenous,Exogenous,,2,0,0,0,0,0,0,0,0,2,0
+acuteinflammation_02,h2o2,H2O2,,2,2,0,1,0,2,0,2,0,2,0
+acuteinflammation_02,heat,Heat,,2,0,0,2,0,2,0,2,0,2,0
+acuteinflammation_02,icam-1,ICAM-1,,2,1,0,1,0,0,0,1,0,1,0
+acuteinflammation_02,low_affinity,low affinity,,2,2,0,0,0,0,2,0,2,2,0
+acuteinflammation_02,nsaid,NSAID,drug,2,0,2,0,0,0,2,0,2,0,0
+acuteinflammation_02,opsonin,opsonin,,2,0,2,2,0,0,2,0,2,2,0
+acuteinflammation_02,oxygen_dependent,oxygen dependent,,2,0,0,0,0,0,0,0,0,0,0
+acuteinflammation_02,oxygen_independent,oxygen independent,,2,0,0,0,0,0,0,0,0,0,0
+acuteinflammation_02,p-selectin,P-selectin,,2,0,0,2,0,0,0,0,0,2,0
+acuteinflammation_02,phagocytosis,phagocytosis,,3,0,3,2,0,0,3,0,3,3,0
+acuteinflammation_02,phagosome,phagosome,,2,0,2,2,0,0,2,0,2,2,0
+acuteinflammation_02,redness,Redness,,2,0,0,2,0,2,0,2,0,2,0
+acuteinflammation_02,repair,Repair,,2,0,0,2,0,1,0,0,0,1,0
+acuteinflammation_02,tissue_regeneration,tissue regeneration,,2,0,2,0,0,0,2,0,2,0,0
+acuteinflammation_02,transudate,Transudate,,2,0,2,2,0,2,0,0,0,2,0
+acuteinflammation_02,vcam-1,VCAM-1,,2,1,0,1,0,0,0,1,0,2,0
+acuteinflammation_02,actin_polymerization,actin polymerization,,1,0,0,0,0,0,1,0,1,1,0
+acuteinflammation_02,acute_phase_protein,acute phase protein,,1,0,1,1,0,0,1,0,1,1,0
+acuteinflammation_02,anaphylatoxin,anaphylatoxin,,1,0,1,1,0,0,1,0,1,1,0
+acuteinflammation_02,arachidonic_acid,Arachidonic acid,,1,0,1,0,0,0,1,0,1,1,0
+acuteinflammation_02,bacterial_product,bacterial product,,1,0,0,0,0,0,0,0,0,1,0
+acuteinflammation_02,basement_membrane,Basement membrane,,1,1,0,1,0,0,1,0,1,1,0
+acuteinflammation_02,basophil,basophil,,1,0,0,1,0,0,0,0,0,1,0
+acuteinflammation_02,bleach,bleach,,1,1,0,1,0,0,0,0,0,1,0
+acuteinflammation_02,blood_flow,Blood Flow,,1,0,1,1,0,1,0,0,0,0,0
+acuteinflammation_02,blood_smear,blood smear,,1,0,1,0,0,0,1,0,1,1,0
+acuteinflammation_02,blood_viscosity,Blood Viscosity,,1,0,1,0,0,1,0,0,0,1,0
+acuteinflammation_02,bone_marrow,bone marrow,,1,0,1,0,0,0,1,0,1,1,0
+acuteinflammation_02,bradykinin,bradykinin,,1,0,1,1,0,0,1,0,1,1,0
+acuteinflammation_02,c3a,C3a,,1,1,0,1,0,1,0,1,0,1,0
+acuteinflammation_02,c3b,C3b,,1,1,0,1,0,1,0,1,0,1,0
+acuteinflammation_02,c5b,C5b,,1,1,0,1,0,1,0,1,0,1,0
+acuteinflammation_02,calor,Calor,,1,0,0,1,0,1,0,0,0,1,0
+acuteinflammation_02,cardinal_sign_of_inflammation,Cardinal Sign of Inflammation,,1,0,0,1,0,1,0,0,0,1,0
+acuteinflammation_02,cd31,CD31,,1,1,0,1,0,1,0,1,0,1,0
+acuteinflammation_02,cellular_response,Cellular Response,,1,0,1,1,0,1,0,0,1,0,0
+acuteinflammation_02,chemical_mediator,chemical Mediator,,1,0,0,0,0,0,0,0,0,0,0
+acuteinflammation_02,chemotactic_gradient,Chemotactic gradient,,1,0,1,1,0,0,1,0,0,0,0
+acuteinflammation_02,collagenase,collagenase,,1,0,1,1,0,0,1,0,1,1,0
+acuteinflammation_02,collateral_damage,collateral damage,,1,0,0,1,0,0,0,0,0,1,0
+acuteinflammation_02,complement_system,complement system,,1,0,1,0,0,0,1,0,1,1,0
+acuteinflammation_02,conformational_change,conformational change,,1,0,0,1,0,0,0,0,0,0,0
+acuteinflammation_02,congestive_heart_failure,Congestive Heart Failure,,1,0,0,1,0,1,0,0,0,1,0
+acuteinflammation_02,connective_tissue,connective tissue,,1,0,1,0,0,0,1,0,1,0,0
+acuteinflammation_02,crp,CRP,,1,1,0,1,0,1,0,1,0,1,0
+acuteinflammation_02,damaged_tissue,Damaged Tissue,,1,0,0,1,0,0,0,0,0,0,0
+acuteinflammation_02,defensin,defensin,,1,0,1,1,0,0,1,0,1,1,0
+acuteinflammation_02,diapedesis,Diapedesis,,1,0,0,1,0,0,1,0,1,1,0
+acuteinflammation_02,dic,DIC,,1,1,0,1,0,1,0,1,0,1,0
+acuteinflammation_02,dolor,Dolor,,1,0,0,1,0,1,0,0,0,1,0
+acuteinflammation_02,endothelial_activation,endothelial activation,,1,0,0,1,0,0,0,0,0,1,0
+acuteinflammation_02,endothelial_cell,Endothelial Cell,,2,0,2,1,0,2,0,0,0,1,0
+acuteinflammation_02,endothelial_cell_contraction,Endothelial Cell Contraction,,1,0,1,1,0,1,0,0,0,1,0
+acuteinflammation_02,endothelial_junction,endothelial junction,,1,0,0,0,0,0,0,0,0,0,0
+acuteinflammation_02,endothelial_layer,Endothelial Layer,,1,0,0,1,0,1,0,0,0,1,0
+acuteinflammation_02,fibrinogen,fibrinogen,,1,0,1,1,0,0,1,0,1,1,0
+acuteinflammation_02,fibrosis,fibrosis,,1,0,1,1,0,0,1,0,1,1,0
+acuteinflammation_02,functio_laesa,functio laesa,,1,0,0,1,0,0,0,0,0,1,0
+acuteinflammation_02,granuloma,granuloma,,1,0,2,1,0,0,2,0,0,1,0
+acuteinflammation_02,high_affinity,high affinity,,1,1,0,0,0,0,1,0,1,1,0
+acuteinflammation_02,hocl,HOCl,,1,1,0,1,0,1,0,1,0,1,0
+acuteinflammation_02,homophilic_binding,homophilic binding,,1,0,1,1,0,0,1,0,1,1,0
+acuteinflammation_02,hydrostatic_pressure,Hydrostatic Pressure,,1,0,0,1,0,1,0,0,0,0,0
+acuteinflammation_02,hypothalamus,hypothalamus,,1,0,1,1,0,0,1,0,1,1,0
+acuteinflammation_02,hypotension,hypotension,electrolyte/acid-base,1,0,0,0,0,0,0,0,1,0,0
+acuteinflammation_02,il-8,IL-8,,1,1,0,1,0,1,0,0,0,1,0
+acuteinflammation_02,infection,infection,,1,0,1,1,0,0,1,0,1,0,0
+acuteinflammation_02,kinin,kinin,,2,0,2,1,0,0,3,0,3,1,0
+acuteinflammation_02,kinin_system,Kinin system,,1,0,0,0,0,0,0,0,0,1,0
+acuteinflammation_02,l-selectin,L-selectin,,1,0,0,1,0,0,0,0,0,1,0
+acuteinflammation_02,left_shift,left shift,,1,0,1,1,0,0,1,0,0,1,0
+acuteinflammation_02,leukocyte_activation,leukocyte activation,,2,0,0,1,0,0,0,0,0,2,0
+acuteinflammation_02,leukocytosis,leukocytosis,,1,0,1,1,0,0,1,0,1,1,0
+acuteinflammation_02,leukotriene_b4,leukotriene B4,,3,1,0,3,0,2,0,1,1,3,0
+acuteinflammation_02,liver,liver,,1,0,1,0,0,0,1,0,1,0,0
+acuteinflammation_02,loss_of_function,Loss of Function,,1,0,0,1,0,1,0,1,0,1,0
+acuteinflammation_02,lox_pathway,LOX pathway,,1,0,1,1,0,0,1,0,1,1,0
+acuteinflammation_02,ltc4,LTC4,,1,0,0,1,0,0,0,1,0,0,0
+acuteinflammation_02,lymphocyte,lymphocyte,,1,0,1,0,0,0,1,0,0,1,0
+acuteinflammation_02,lysosome,lysosome,,1,0,2,1,0,0,2,0,2,1,0
+acuteinflammation_02,lysozyme,lysozyme,,1,0,1,1,0,0,1,0,1,1,0
+acuteinflammation_02,major_basic_protein,major basic protein,,2,0,1,0,0,1,1,1,0,2,0
+acuteinflammation_02,mast_cell,mast cell,,2,0,0,2,0,0,0,0,0,2,0
+acuteinflammation_02,mast_cell_degranulation,mast cell degranulation,,1,0,0,0,0,0,0,0,0,1,0
+acuteinflammation_02,membrane_attack_complex,membrane attack complex,,1,0,1,1,0,0,1,0,0,1,0
+acuteinflammation_02,myeloperoxidase,myeloperoxidase,,1,0,1,1,0,0,1,0,1,1,0
+acuteinflammation_02,n-formylmethionine,N-formylmethionine,,1,1,0,1,0,0,0,1,0,1,0
+acuteinflammation_02,nadph_oxidase,NADPH oxidase,,1,0,0,1,0,0,0,0,0,1,0
+acuteinflammation_02,no,NO,,1,1,0,1,0,1,0,1,0,1,0
+acuteinflammation_02,pecam-1,PECAM-1,,1,1,0,1,0,0,0,1,0,1,0
+acuteinflammation_02,peptide,peptide,,1,0,0,0,0,0,0,0,0,1,0
+acuteinflammation_02,persistent_stimulus,persistent stimulus,,1,0,1,0,0,0,1,0,0,0,0
+acuteinflammation_02,phagolysosome,phagolysosome,,1,0,1,1,0,0,1,0,1,1,0
+acuteinflammation_02,prostaglandin_e2,prostaglandin E2,,2,1,0,2,0,1,0,1,0,2,0
+acuteinflammation_02,pseudopod,pseudopod,,1,0,0,1,0,0,0,0,0,1,0
+acuteinflammation_02,reactive_oxygen_species,reactive oxygen species,,1,0,0,1,0,0,0,0,0,1,0
+acuteinflammation_02,red_blood_cell,Red Blood Cell,,1,0,1,0,0,1,0,0,0,1,0
+acuteinflammation_02,resolution,Resolution,,1,0,1,1,0,1,0,0,1,1,0
+acuteinflammation_02,rubor,Rubor,,1,0,0,1,0,1,0,1,0,1,0
+acuteinflammation_02,scarring,scarring,,1,0,1,1,0,0,1,0,0,1,0
+acuteinflammation_02,selectin_ligand,selectin ligand,,1,0,0,1,0,0,0,0,0,1,0
+acuteinflammation_02,sepsis,sepsis,,1,0,1,0,0,0,1,0,1,1,0
+acuteinflammation_02,specific_gravity,Specific Gravity,,1,0,0,1,0,1,0,0,0,0,0
+acuteinflammation_02,superoxide,superoxide,,1,0,1,1,0,0,1,0,1,1,0
+acuteinflammation_02,swelling,Swelling,,1,0,0,1,0,1,0,1,0,1,0
+acuteinflammation_02,systemic_effect,systemic effect,,1,0,0,0,0,0,0,0,0,0,0
+acuteinflammation_02,systemic_vasodilation,systemic vasodilation,,1,0,0,0,0,0,0,0,0,0,0
+acuteinflammation_02,thromboxane,thromboxane,,1,0,1,1,0,0,1,0,1,1,0
+acuteinflammation_02,tissue_damage,tissue damage,,1,0,1,1,0,0,1,0,1,0,0
+acuteinflammation_02,transient_vasoconstriction,Transient Vasoconstriction,,1,0,1,1,0,1,0,0,0,1,0
+acuteinflammation_02,tumor,Tumor,,1,0,0,1,0,1,0,1,0,1,0
+acuteinflammation_02,upregulation,upregulation,,1,0,0,0,0,0,0,0,0,1,0
+acuteinflammation_02,vascular,Vascular,,9,0,8,8,0,6,3,0,3,8,0
+acuteinflammation_02,vascular_change,Vascular Change,,1,0,1,1,0,1,0,0,0,1,0
+acuteinflammation_02,vasoactive_amines,Vasoactive amines,,1,0,1,0,0,0,1,0,1,0,0
+acuteinflammation_02,vasoconstriction,vasoconstriction,,2,0,2,2,0,1,1,0,1,2,0
+acuteinflammation_02,venule,venule,,1,1,0,1,0,0,0,0,0,1,0
+acuteinflammation_02,vessel_wall,vessel wall,,1,0,0,1,0,0,0,0,0,1,0
+acuteinflammation_02,weibel-palade_body,Weibel-Palade body,,1,0,0,1,0,0,0,0,0,1,0
+anthrax_01,plasmid,plasmid,,7,0,0,1,0,0,0,0,0,3,0
+anthrax_01,cutaneous_anthrax,Cutaneous Anthrax,,4,3,1,3,0,0,3,2,2,4,0
+anthrax_01,edema_factor,edema factor,,5,1,0,3,0,1,4,1,2,4,0
+anthrax_01,gastrointestinal_anthrax,Gastrointestinal Anthrax,,4,3,1,3,0,1,1,1,1,2,0
+anthrax_01,inhalation_anthrax,Inhalation Anthrax,,4,0,1,2,0,0,2,1,3,3,0
+anthrax_01,lethal_factor,lethal factor,,5,5,0,5,0,1,4,3,2,3,1
+anthrax_01,spore,spore,,7,4,7,1,4,0,15,3,9,2,4
+anthrax_01,anthrax,Anthrax,,17,13,3,13,0,3,12,7,8,13,1
+anthrax_01,eschar,eschar,,4,0,0,0,0,0,4,0,4,3,0
+anthrax_01,incubation_period,Incubation Period,,3,3,0,2,0,0,3,0,3,2,0
+anthrax_01,mortality,Mortality,,3,3,0,0,0,0,3,0,3,0,0
+anthrax_01,protective_antigen,protective antigen,,4,4,0,2,0,1,3,3,1,4,0
+anthrax_01,pxo1,pXO1,,5,5,0,5,0,5,0,3,0,4,0
+anthrax_01,pxo2,pXO2,,3,3,0,3,0,3,0,3,0,4,0
+anthrax_01,bioterror,bioterror,,2,0,2,0,2,0,2,0,2,0,1
+anthrax_01,dormant_spore,dormant spore,,2,2,0,1,0,0,2,2,0,1,0
+anthrax_01,exotoxin,exotoxin,,2,0,4,2,0,0,4,2,1,2,0
+anthrax_01,gi_tract,GI tract,,2,2,0,2,0,0,1,0,0,1,0
+anthrax_01,sepsis,Sepsis,,2,0,2,0,0,0,2,0,2,2,0
+anthrax_01,toxic_effect,toxic effect,,2,0,2,0,0,0,2,0,2,0,1
+anthrax_01,abdominal_pain,Abdominal Pain,,1,1,0,1,0,0,0,0,0,0,0
+anthrax_01,aerosol-like_spore,Aerosol-like spore,,1,0,0,0,0,0,1,0,1,0,0
+anthrax_01,antibiotics,antibiotics,,1,0,1,1,0,0,1,0,1,1,0
+anthrax_01,antitoxin_therapy,antitoxin therapy,,1,0,1,0,0,0,1,0,1,0,0
+anthrax_01,apoptosis,Apoptosis,,1,1,0,1,0,0,1,0,1,1,0
+anthrax_01,bacillus_anthracis,Bacillus anthracis,,1,1,0,1,0,0,2,0,0,1,0
+anthrax_01,black_necrotic_eschar,Black Necrotic Eschar,,1,0,0,0,0,0,1,0,1,1,0
+anthrax_01,blood_agar,Blood Agar,,1,0,0,0,0,0,1,0,1,0,0
+anthrax_01,calmodulin-dependent_adenylyl_cyclase,Calmodulin-dependent adenylyl Cyclase,,1,0,0,0,0,0,1,0,1,0,0
+anthrax_01,capsule,capsule,,2,0,4,1,2,0,4,0,4,1,2
+anthrax_01,cell_death,Cell Death,,1,1,0,1,0,0,1,0,1,1,0
+anthrax_01,chemotaxis,Chemotaxis,,1,1,0,1,0,0,1,0,1,0,0
+anthrax_01,chest_pain,Chest Pain,,1,1,0,1,0,0,1,0,1,0,0
+anthrax_01,clinical_deterioration,Clinical Deterioration,,1,1,0,1,0,0,1,0,1,1,0
+anthrax_01,culturing,Culturing,,1,1,0,0,0,0,1,0,1,0,0
+anthrax_01,decontamination,decontamination,,1,0,1,0,0,0,1,0,1,0,0
+anthrax_01,doxycycline,doxycycline,,1,0,1,1,0,0,1,0,1,0,0
+anthrax_01,dyspnea,dyspnea,,1,0,1,1,0,0,1,0,1,0,0
+anthrax_01,electron_microscopy,Electron Microscopy,,1,0,1,0,0,0,1,0,1,0,0
+anthrax_01,flu,Flu,,1,1,0,1,0,0,2,0,2,0,0
+anthrax_01,fluid_accumulation,Fluid Accumulation,,1,1,0,1,0,0,1,0,1,1,0
+anthrax_01,gi_anthrax,GI Anthrax,,1,1,0,1,0,1,0,0,0,1,0
+anthrax_01,gram_positive,gram positive,,1,1,0,0,0,0,1,0,1,0,0
+anthrax_01,hemoptysis,Hemoptysis,,1,1,0,1,0,0,1,0,1,0,0
+anthrax_01,host_cell_receptor,host cell receptor,,1,0,1,0,0,0,1,1,0,0,0
+anthrax_01,immune_cell,Immune Cell,,1,1,0,0,0,0,1,0,1,0,0
+anthrax_01,immune_recognition,Immune Recognition,,1,0,0,0,0,0,1,0,1,0,0
+anthrax_01,immunohistochemistry,Immunohistochemistry,,1,1,0,1,0,0,1,0,1,0,0
+anthrax_01,intestinal_perforation,Intestinal Perforation,,1,1,0,0,0,0,1,0,0,0,0
+anthrax_01,knockout,Knockout,,1,0,0,0,0,0,0,0,0,1,0
+anthrax_01,koch,Koch,,1,0,1,0,0,0,1,0,1,0,0
+anthrax_01,lesion,Lesion,,1,1,0,0,0,0,2,0,1,1,0
+anthrax_01,macrophage_injury,Macrophage Injury,,1,1,0,1,0,0,1,0,2,0,0
+anthrax_01,meningitis,Meningitis,,1,1,0,1,0,0,1,0,1,0,0
+anthrax_01,nausea,Nausea,,1,1,0,1,0,0,1,0,1,1,0
+anthrax_01,obligate_aerobe,obligate aerobe,,1,0,0,0,0,0,0,1,0,1,0
+anthrax_01,oropharyngeal_diseases,Oropharyngeal Diseases,,1,1,0,1,0,0,1,0,1,0,0
+anthrax_01,painless,Painless,,1,1,0,0,0,0,1,0,1,1,0
+anthrax_01,pathogenesis,pathogenesis,,1,0,0,0,0,0,1,1,0,0,0
+anthrax_01,pcr_testing,PCR testing,,1,0,0,0,0,0,1,0,1,0,0
+anthrax_01,penicillin,penicillin,,1,0,1,1,0,0,1,0,1,1,0
+anthrax_01,phagocytosis,Phagocytosis,,1,1,0,1,0,0,1,0,1,1,0
+anthrax_01,polyglutamate_capsule,polyglutamate capsule,,1,0,1,0,0,0,1,0,1,0,0
+anthrax_01,post-exposure_prophylaxis,Post-exposure prophylaxis,,1,0,1,1,0,0,1,0,1,1,0
+anthrax_01,productive_cough,Productive Cough,,1,1,0,1,0,0,1,0,1,0,0
+anthrax_01,protective_immunity,protective immunity,,1,1,0,0,0,0,0,0,0,0,0
+anthrax_01,public_health,public health,,2,2,0,1,0,0,2,1,1,1,0
+anthrax_01,public_health_response,Public Health Response,,1,1,0,1,0,0,1,0,1,1,0
+anthrax_01,radiographic_hallmark,Radiographic Hallmark,,1,0,0,1,0,0,1,0,1,0,0
+anthrax_01,rod-shaped,rod-shaped,,1,0,0,0,0,0,1,0,1,0,0
+anthrax_01,shock,shock,,1,0,1,0,0,0,1,0,1,0,1
+anthrax_01,sterilization,sterilization,,1,0,1,0,0,0,1,0,1,0,0
+anthrax_01,tissue_edema,Tissue Edema,,1,0,0,0,0,0,1,0,1,0,0
+anthrax_01,toxin,toxin,,1,0,0,1,0,0,0,0,0,1,0
+anthrax_01,vaccination,Vaccination,,1,0,1,0,0,0,1,0,1,0,0
+anthrax_01,vomiting,Vomiting,,1,1,0,1,0,0,1,0,1,0,0
+anthrax_01,x-ray,X-ray,,1,1,0,1,0,0,0,0,0,1,0
+anthrax_01,zinc_dependent_metalloprotease,Zinc Dependent Metalloprotease,,1,1,0,1,0,0,1,0,1,0,0
+anticancerdrugs_02,dna,DNA,,9,9,0,9,0,9,0,9,0,10,0
+anticancerdrugs_02,cytotoxic_chemotherapy,cytotoxic chemotherapy,,4,4,0,4,0,1,3,0,3,3,0
+anticancerdrugs_02,hormonal_therapy,hormonal therapy,,3,3,0,3,0,2,1,0,3,3,0
+anticancerdrugs_02,immunotherapy,immunotherapy,,3,3,0,2,0,2,1,0,3,2,0
+anticancerdrugs_02,targeted_therapy,targeted therapy,,3,3,0,3,0,1,1,0,2,2,0
+anticancerdrugs_02,alkylating_agents,alkylating agents,,2,0,0,0,0,0,3,0,2,3,0
+anticancerdrugs_02,antimetabolite,antimetabolite,,2,0,0,2,0,0,2,0,2,0,0
+anticancerdrugs_02,microtubule_inhibitors,microtubule inhibitors,,2,1,0,1,0,0,3,0,1,1,0
+anticancerdrugs_02,mitotic_spindle,mitotic spindle,,2,1,0,1,0,0,2,0,2,0,0
+anticancerdrugs_02,monoclonal_antibody,Monoclonal antibody,,2,2,0,2,0,1,1,0,2,0,0
+anticancerdrugs_02,nucleotide,nucleotide,,2,2,0,2,0,0,2,0,2,0,0
+anticancerdrugs_02,androgen_receptor,Androgen receptor,,1,1,0,1,0,1,0,0,2,0,0
+anticancerdrugs_02,anti-tumor_immune_response,anti-tumor immune response,,1,1,0,1,0,1,0,0,1,0,0
+anticancerdrugs_02,antiandrogen,Antiandrogen,,1,1,0,1,0,1,0,0,1,1,0
+anticancerdrugs_02,antitumor_antibiotics,antitumor antibiotics,,1,1,0,1,0,0,1,0,0,1,0
+anticancerdrugs_02,aromatase_inhibitor,Aromatase inhibitor,,1,0,0,1,0,0,0,0,1,0,0
+anticancerdrugs_02,bcr-abl,BCR-ABL,,1,0,0,0,0,1,0,1,0,1,0
+anticancerdrugs_02,cellular_therapy,Cellular therapy,,1,1,0,1,0,1,0,0,1,0,0
+anticancerdrugs_02,classical_cytotoxic_chemotherapy,classical cytotoxic chemotherapy,,1,1,0,1,0,1,0,0,1,0,0
+anticancerdrugs_02,cross-link,cross-link,,1,0,1,0,1,0,1,0,1,1,0
+anticancerdrugs_02,ctla-4,CTLA-4,,1,1,0,1,0,1,0,1,0,1,0
+anticancerdrugs_02,dna_synthesis_inhibitor,DNA synthesis inhibitor,,1,1,0,1,0,0,1,0,1,0,0
+anticancerdrugs_02,egfr,EGFR,,1,1,0,1,0,0,0,1,0,0,0
+anticancerdrugs_02,endocrine_signaling,endocrine signaling,,1,1,0,1,0,1,0,0,1,0,0
+anticancerdrugs_02,enzyme,enzyme,,1,0,1,0,0,0,1,0,1,0,0
+anticancerdrugs_02,estrogen,Estrogen,,1,0,0,1,0,1,0,0,1,1,0
+anticancerdrugs_02,her2,HER2,,1,1,0,1,0,1,0,1,0,1,0
+anticancerdrugs_02,hormone-dependent_tumor,hormone-dependent tumor,,1,0,0,0,0,0,0,0,1,0,0
+anticancerdrugs_02,immune,immune,,4,5,0,3,0,2,1,0,1,1,0
+anticancerdrugs_02,immune_checkpoint,immune checkpoint,,2,1,1,1,0,1,1,0,1,1,0
+anticancerdrugs_02,immune_checkpoint_inhibitor,Immune checkpoint inhibitor,,1,1,0,1,0,1,0,0,1,0,0
+anticancerdrugs_02,m-phase,M-phase,,2,2,0,1,0,2,0,2,0,1,0
+anticancerdrugs_02,m-phase_arrest,M-phase arrest,,1,1,0,1,0,1,0,1,0,1,0
+anticancerdrugs_02,microtubule,microtubule,,3,3,0,3,0,0,3,0,3,2,0
+anticancerdrugs_02,pd-1,PD-1,,1,1,0,1,0,1,0,1,0,1,0
+anticancerdrugs_02,pd-l1,PD-L1,,1,1,0,1,0,1,0,1,0,1,0
+anticancerdrugs_02,phase,phase,,5,5,0,4,0,5,0,5,0,4,0
+anticancerdrugs_02,phase-specific,phase-specific,,1,0,0,0,0,0,0,2,0,0,0
+anticancerdrugs_02,rapid_dividing_cell,rapid dividing cell,,1,1,0,0,0,0,1,0,1,0,0
+anticancerdrugs_02,receptor,receptor,,2,1,1,1,0,1,1,0,2,0,0
+anticancerdrugs_02,representative_concept,Representative concept,,1,1,0,0,0,0,1,0,1,0,0
+anticancerdrugs_02,s-phase_progression,S-phase progression,,1,0,1,0,0,0,1,0,1,0,0
+anticancerdrugs_02,serms,SERMs,,1,1,0,1,0,0,0,1,0,1,0
+anticancerdrugs_02,signal_transduction_inhibitor,Signal transduction inhibitor,,1,1,0,1,0,0,1,0,1,0,0
+anticancerdrugs_02,specific,specific,,3,3,0,2,0,3,0,3,0,2,0
+anticancerdrugs_02,specific_molecular_target,specific molecular target,,1,1,0,0,0,1,0,0,0,0,0
+anticancerdrugs_02,t-cell_activity,T-Cell activity,,1,1,0,0,0,1,0,0,1,0,0
+anticancerdrugs_02,toxicity,toxicity,,1,1,0,0,0,0,1,0,1,0,0
+anticancerdrugs_02,tumor_cell,tumor cell,,1,1,0,1,0,0,1,0,1,0,0
+anticancerdrugs_02,tumor_growth,tumor growth,,1,1,0,1,0,1,0,0,1,0,0
+anticancerdrugs_02,tyrosine_kinase_inhibitor,Tyrosine kinase inhibitor,,1,0,0,1,0,0,1,0,1,0,0
+anticancerdrugs_02,vegf_pathway,VEGF Pathway,,1,1,0,1,0,1,0,0,1,1,0
+diuretics_01,loop_diuretics,loop diuretics,,9,0,0,8,0,0,3,1,3,7,0
+diuretics_01,potassium,potassium,,13,0,10,8,1,0,13,3,10,5,2
+diuretics_01,spironolactone,spironolactone,drug,6,0,3,6,0,0,6,0,5,6,0
+diuretics_01,collecting_duct,collecting duct,,5,0,4,5,0,0,5,3,2,5,0
+diuretics_01,furosemide,furosemide,drug,8,0,16,8,0,0,12,0,16,8,0
+diuretics_01,hypercalcemia,hypercalcemia,electrolyte/acid-base,5,0,5,4,0,2,6,0,8,4,0
+diuretics_01,hyperkalemia,hyperkalemia,electrolyte/acid-base,3,0,3,4,0,2,6,0,7,6,0
+diuretics_01,diuretics,diuretics,,20,0,15,19,0,0,7,3,6,20,0
+diuretics_01,enac,ENaC,,6,0,5,3,1,0,5,1,4,1,0
+diuretics_01,hypokalemia,hypokalemia,electrolyte/acid-base,6,0,1,5,0,0,0,1,0,2,0
+diuretics_01,metabolic_alkalosis,metabolic alkalosis,electrolyte/acid-base,4,0,4,1,0,0,3,1,3,4,0
+diuretics_01,nephron,nephron,,4,0,5,3,0,0,5,0,6,0,1
+diuretics_01,proximal_convoluted_tubule,proximal convoluted tubule,,4,0,3,4,0,0,3,4,0,3,0
+diuretics_01,reabsorption,reabsorption,,5,0,3,2,0,0,4,0,2,0,0
+diuretics_01,thiazide,thiazide,,7,0,8,7,0,0,7,1,6,9,0
+diuretics_01,aldosterone,Aldosterone,,4,0,5,5,0,0,5,0,5,4,0
+diuretics_01,bicarbonate,bicarbonate,,3,0,3,3,0,0,3,3,0,3,0
+diuretics_01,chloride,chloride,,5,0,5,2,0,0,5,0,5,1,1
+diuretics_01,congestive_heart_failure,congestive heart failure,,3,1,2,1,0,1,0,0,1,2,0
+diuretics_01,distal_convoluted_tubule,distal convoluted tubule,,5,0,2,5,0,0,2,4,0,5,0
+diuretics_01,hyperuricemia,hyperuricemia,electrolyte/acid-base,3,0,3,3,0,0,3,1,2,3,0
+diuretics_01,lumen,lumen,,4,0,4,1,0,0,4,0,3,1,0
+diuretics_01,nkcc,NKCC,,4,4,0,1,0,4,0,4,0,1,0
+diuretics_01,thiazide_diuretics,thiazide diuretics,,3,0,1,3,0,0,2,1,0,3,0
+diuretics_01,acetazolamide,acetazolamide,drug,2,0,2,2,0,0,2,1,1,2,0
+diuretics_01,acute_pulmonary_edema,Acute Pulmonary Edema,,2,1,1,0,0,1,1,0,2,1,0
+diuretics_01,altitude_sickness,altitude sickness,,2,0,1,1,0,0,2,0,1,1,0
+diuretics_01,amiloride,amiloride,drug,2,0,2,2,0,0,2,0,2,2,0
+diuretics_01,carbonic_anhydrase_inhibitor,carbonic anhydrase inhibitor,,4,1,1,3,0,0,4,0,0,2,0
+diuretics_01,cirrhosis_ascites,Cirrhosis ascites,,2,0,2,2,0,0,2,0,1,2,0
+diuretics_01,eplerenone,eplerenone,drug,2,0,2,2,0,0,2,0,2,2,0
+diuretics_01,ethacrynic_acid,ethacrynic acid,drug,2,0,1,2,0,1,1,0,1,1,0
+diuretics_01,glaucoma,glaucoma,,2,0,2,1,0,0,2,2,0,2,0
+diuretics_01,glomerular_filtration_rate,Glomerular Filtration Rate,,2,0,2,2,0,1,0,0,2,1,0
+diuretics_01,gout,gout,,2,0,2,0,0,0,2,0,2,2,0
+diuretics_01,hydrochlorothiazide,Hydrochlorothiazide,drug,2,0,2,2,0,0,1,0,1,2,0
+diuretics_01,hypercalciuria,hypercalciuria,electrolyte/acid-base,1,0,0,3,0,0,0,0,0,2,0
+diuretics_01,hypertension,hypertension,electrolyte/acid-base,3,0,2,2,0,0,3,0,3,3,0
+diuretics_01,hyponatremia,Hyponatremia,electrolyte/acid-base,2,0,0,1,0,0,1,0,0,2,0
+diuretics_01,iv_saline,IV saline,,2,0,0,2,0,0,0,0,2,2,0
+diuretics_01,loop_of_henle,loop of henle,,3,0,2,3,0,0,3,2,1,2,0
+diuretics_01,mortality_benefit,mortality benefit,,2,0,1,1,0,0,0,0,1,2,0
+diuretics_01,ncc,NCC,,2,2,0,2,0,2,0,2,0,2,0
+diuretics_01,potassium_sparing_diuretics,potassium sparing diuretics,,4,0,1,3,0,0,1,1,0,4,0
+diuretics_01,sulfa_allergy,sulfa allergy,,2,0,2,2,0,0,1,0,0,2,0
+diuretics_01,thick_ascending_limb,thick ascending limb,,3,0,1,0,0,0,1,0,0,1,0
+diuretics_01,ace_inhibitor,ACE inhibitor,,1,0,1,1,0,0,1,0,1,1,0
+diuretics_01,aldosterone_antagonist,aldosterone antagonist,,1,0,1,1,0,0,1,0,1,1,0
+diuretics_01,anti-androgenic_effect,anti-androgenic effect,,1,0,1,1,0,0,1,0,0,0,0
+diuretics_01,anti-androgenic_side_effect,anti-androgenic side effect,,1,0,0,1,0,0,0,0,0,0,0
+diuretics_01,aqueous_humor,aqueous humor,,1,0,1,0,0,0,1,0,0,0,0
+diuretics_01,arb,ARB,,1,0,1,1,0,0,1,0,1,1,0
+diuretics_01,bumetanide,bumetanide,drug,1,0,1,1,0,0,0,0,1,1,0
+diuretics_01,calcium_oxalate,calcium oxalate,,1,0,0,1,0,0,1,0,1,1,0
+diuretics_01,carbonic_anhydrase,carbonic anhydrase,,3,2,1,5,0,0,3,0,0,3,0
+diuretics_01,chloride_cotransporter,chloride cotransporter,,2,0,0,1,0,0,1,0,1,1,0
+diuretics_01,chlorthalidone,Chlorthalidone,drug,1,0,1,1,0,0,1,0,0,1,0
+diuretics_01,ckd_edema,CKD Edema,,1,0,0,0,0,1,0,0,0,0,0
+diuretics_01,countercurrent_multiplier,countercurrent multiplier,,1,0,1,1,0,0,1,0,1,0,1
+diuretics_01,diabetes_insipidus,diabetes insipidus,,3,0,2,2,0,0,2,0,2,3,0
+diuretics_01,diuresis,diuresis,,1,0,1,1,0,0,1,0,1,0,0
+diuretics_01,early_distal_convoluted_tubule,Early Distal convoluted tubule,,1,0,1,1,0,0,1,1,0,0,0
+diuretics_01,enac_blocker,ENaC blocker,,1,0,1,1,0,0,1,0,1,0,0
+diuretics_01,gynecomastia,gynecomastia,,1,0,1,1,0,0,1,0,1,1,0
+diuretics_01,hyperaldosteronism,Hyperaldosteronism,electrolyte/acid-base,2,0,1,2,0,0,0,0,2,2,0
+diuretics_01,hyperglycemia,hyperglycemia,electrolyte/acid-base,1,0,1,1,0,0,1,0,1,1,0
+diuretics_01,hyperlipidemia,hyperlipidemia,electrolyte/acid-base,1,0,1,1,0,0,1,0,1,1,0
+diuretics_01,hypomagnesemia,hypomagnesemia,electrolyte/acid-base,1,0,0,0,0,0,0,0,0,1,0
+diuretics_01,hypocalcemia,hypocalcemia,electrolyte/acid-base,2,0,0,1,0,0,0,0,0,1,0
+diuretics_01,indapamide,Indapamide,drug,1,0,1,1,0,0,1,1,0,1,0
+diuretics_01,iv_furosemide,IV furosemide,drug,2,0,0,1,0,0,0,0,0,2,0
+diuretics_01,kidney,kidney,,1,0,1,0,0,0,1,0,1,0,0
+diuretics_01,late_distal_convoluted_tubule,late distal convoluted tubule,,1,0,1,1,0,0,0,0,0,1,0
+diuretics_01,libido,libido,,1,0,1,1,0,0,1,0,1,1,0
+diuretics_01,lithium_induced_nephrogenic_diabetes_insipidus,lithium induced nephrogenic Diabetes insipidus,drug,1,0,0,0,0,0,0,0,0,0,0
+diuretics_01,medulla,medulla,,1,0,3,1,0,0,1,0,2,2,0
+diuretics_01,medullary_interstitium,medullary interstitium,,1,0,0,1,0,0,1,0,1,0,0
+diuretics_01,metabolic_acidosis,metabolic acidosis,electrolyte/acid-base,1,0,0,0,0,0,0,1,0,0,0
+diuretics_01,metolazone,Metolazone,drug,1,0,1,1,0,0,1,1,0,1,0
+diuretics_01,mild_edema,mild edema,,1,0,1,1,0,0,1,0,0,1,0
+diuretics_01,mineralocorticoid_receptor,mineralocorticoid receptor,,1,0,1,1,0,0,1,0,1,1,0
+diuretics_01,na-h_exchanger,Na/H exchanger,,1,0,1,0,0,0,0,0,0,0,0
+diuretics_01,ncx,NCX,,1,1,0,1,0,1,0,1,0,1,0
+diuretics_01,nephrogenic_diabetes_insipidus,nephrogenic diabetes insipidus,,2,0,1,1,0,0,1,0,0,2,0
+diuretics_01,nephrotic_syndrome,Nephrotic Syndrome,,1,0,1,1,0,1,0,0,1,0,0
+diuretics_01,osmotic_gradient,osmotic gradient,,1,0,1,1,0,0,1,0,1,1,0
+diuretics_01,ototoxicity,ototoxicity,,1,0,1,1,0,0,1,0,1,1,0
+diuretics_01,paracellular,paracellular,,1,0,1,1,0,0,1,0,1,0,0
+diuretics_01,primary_hyperaldosteronism,primary hyperaldosteronism,,1,0,1,1,0,0,0,0,1,1,0
+diuretics_01,proton,proton,,1,0,1,1,0,0,3,1,2,1,0
+diuretics_01,resistant_hypertension,Resistant hypertension,,1,0,1,1,0,0,1,0,1,1,0
+diuretics_01,sodium-potassium_atpase,sodium-potassium ATPase,,1,0,1,1,0,0,0,0,0,0,0
+diuretics_01,sulfa,sulfa,,3,0,0,3,0,0,0,0,0,3,0
+diuretics_01,sulfonamide_allergy,sulfonamide allergy,,1,0,1,0,0,0,1,1,0,1,0
+diuretics_01,torsemide,torsemide,drug,1,0,1,1,0,0,0,0,1,1,0
+diuretics_01,triamterene,triamterene,drug,1,0,1,1,0,0,1,0,1,1,0
+diuretics_01,tubular_flow,tubular flow,,1,0,1,1,0,0,1,0,1,1,0
+diuretics_01,tubular_lumen,tubular lumen,,1,0,1,0,0,0,1,0,1,0,0
+diuretics_01,uric_acid,Uric Acid,,1,0,1,1,0,0,1,1,0,0,0
+diuretics_01,urine,urine,,1,0,0,0,0,0,0,0,0,1,0
+diuretics_01,venodilation,venodilation,,1,0,1,0,0,0,1,0,0,0,0
+diuretics_01,water_reabsorption,water reabsorption,,1,0,0,1,0,0,1,0,1,0,0

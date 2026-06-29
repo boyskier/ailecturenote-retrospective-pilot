@@ -1,0 +1,21 @@
+﻿lecture_id,condition,correct,wrong,omitted,polarity_failure,unclear,total_labeled,condition_label
+acuteinflammation_02,whisper1,20,1,0,1,0,21,raw whisper-1
+acuteinflammation_02,ai_lecturenote,20,1,0,1,0,21,AI_LectureNote
+acuteinflammation_02,gpt4o,20,1,0,1,0,21,raw gpt-4o-transcribe
+acuteinflammation_02,gpt4o_prompted,21,0,0,0,0,21,prompted gpt-4o-transcribe
+acuteinflammation_02,gpt4o_ailn_post,20,1,0,1,0,21,raw gpt-4o-transcribe -> AI_LectureNote post-processing
+anthrax_01,whisper1,24,0,0,0,0,24,raw whisper-1
+anthrax_01,ai_lecturenote,24,0,0,0,0,24,AI_LectureNote
+anthrax_01,gpt4o,24,0,0,0,0,24,raw gpt-4o-transcribe
+anthrax_01,gpt4o_prompted,24,0,0,0,0,24,prompted gpt-4o-transcribe
+anthrax_01,gpt4o_ailn_post,23,0,1,1,0,24,raw gpt-4o-transcribe -> AI_LectureNote post-processing
+anticancerdrugs_02,whisper1,10,0,0,0,0,10,raw whisper-1
+anticancerdrugs_02,ai_lecturenote,10,0,0,0,0,10,AI_LectureNote
+anticancerdrugs_02,gpt4o,10,0,0,0,0,10,raw gpt-4o-transcribe
+anticancerdrugs_02,gpt4o_prompted,10,0,0,0,0,10,prompted gpt-4o-transcribe
+anticancerdrugs_02,gpt4o_ailn_post,10,0,0,0,0,10,raw gpt-4o-transcribe -> AI_LectureNote post-processing
+diuretics_01,whisper1,40,6,0,6,0,46,raw whisper-1
+diuretics_01,ai_lecturenote,36,7,3,10,0,46,AI_LectureNote
+diuretics_01,gpt4o,36,10,0,10,0,46,raw gpt-4o-transcribe
+diuretics_01,gpt4o_prompted,37,9,0,9,0,46,prompted gpt-4o-transcribe
+diuretics_01,gpt4o_ailn_post,35,8,3,11,0,46,raw gpt-4o-transcribe -> AI_LectureNote post-processing

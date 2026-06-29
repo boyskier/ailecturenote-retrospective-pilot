@@ -1,0 +1,39 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Copyright (c) 2026 [Author Names]
+
+This license applies to the audio recordings, transcripts, human annotation files,
+and dataset files in this repository (specifically: inputs/, evaluation_paper/).
+It does not apply to the code in standalone_pipeline/, which is released under the
+MIT License (see LICENSE-CODE).
+
+---
+
+You are free to:
+
+  Share — copy and redistribute the material in any medium or format
+  Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+
+  Attribution — You must give appropriate credit, provide a link to the license,
+  and indicate if changes were made. You may do so in any reasonable manner, but
+  not in any way that suggests the licensor endorses you or your use.
+
+  NonCommercial — You may not use the material for commercial purposes.
+
+Additional restrictions:
+
+  Commercial use of the audio data, including use for training, fine-tuning,
+  evaluating, or deploying commercial speech or generative AI systems, is not
+  permitted without separate written permission from the authors.
+
+  Users must not attempt to identify speakers, clone voices, or generate
+  impersonations of speakers using this dataset.
+
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
+---
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode

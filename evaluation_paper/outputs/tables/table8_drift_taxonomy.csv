@@ -1,0 +1,9 @@
+﻿lecture_id,condition,drift_rows,Omission,Addition,Substitution,Polarity error,Relation error,condition_label
+acuteinflammation_02,ai_lecturenote,10,3,0,7,1,0,AI_LectureNote
+acuteinflammation_02,gpt4o_ailn_post,3,1,0,1,1,0,raw gpt-4o-transcribe -> AI_LectureNote post-processing
+anthrax_01,ai_lecturenote,10,6,0,4,0,0,AI_LectureNote
+anthrax_01,gpt4o_ailn_post,11,2,1,8,0,0,raw gpt-4o-transcribe -> AI_LectureNote post-processing
+anticancerdrugs_02,ai_lecturenote,1,1,0,0,0,0,AI_LectureNote
+anticancerdrugs_02,gpt4o_ailn_post,3,2,1,0,0,0,raw gpt-4o-transcribe -> AI_LectureNote post-processing
+diuretics_01,ai_lecturenote,13,7,2,3,3,1,AI_LectureNote
+diuretics_01,gpt4o_ailn_post,19,5,0,7,7,0,raw gpt-4o-transcribe -> AI_LectureNote post-processing

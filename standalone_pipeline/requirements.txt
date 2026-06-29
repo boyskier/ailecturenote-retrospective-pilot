@@ -1,0 +1,11 @@
+# NOTE: the code uses the legacy openai<1.0 API (openai.ChatCompletion / aiosession)
+openai==0.28.1
+aiohttp
+python-dotenv
+pandas
+numpy
+networkx
+pyvis
+seaborn
+tiktoken
+pydub  # for audio_processing (requires ffmpeg)

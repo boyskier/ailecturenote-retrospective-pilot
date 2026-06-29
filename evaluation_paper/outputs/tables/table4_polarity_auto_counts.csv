@@ -1,0 +1,12 @@
+﻿lecture_id,polarity_group,polarity_value,reference,whisper1,ai_lecturenote,gpt4o,gpt4o_prompted,gpt4o_ailn_post
+acuteinflammation_02,blood_pressure,low,1,0,0,0,0,0
+acuteinflammation_02,vessel_tone,constriction,2,0,2,1,0,2
+acuteinflammation_02,vessel_tone,dilation,4,0,3,1,0,3
+diuretics_01,acid_base,acidosis,1,0,0,0,1,0
+diuretics_01,acid_base,alkalosis,4,0,1,0,1,4
+diuretics_01,calcium_serum,high,5,0,4,2,0,4
+diuretics_01,calcium_serum,low,2,0,1,0,0,1
+diuretics_01,magnesium_serum,low,1,0,0,0,0,1
+diuretics_01,potassium_serum,high,3,0,4,2,0,6
+diuretics_01,potassium_serum,low,6,0,5,0,1,2
+diuretics_01,sodium_serum,low,2,0,1,0,0,2

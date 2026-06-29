@@ -1,0 +1,7 @@
+backups/
+samples/
+__pycache__/
+.pytest_cache/
+*.log
+*.pyc
+ANNOTATION_REVIEW_SUMMARY.md

@@ -1,0 +1,9 @@
+﻿lecture_id,condition,claims_labeled,faithful,minor_rewrite,semantic_drift,unclear,condition_label
+acuteinflammation_02,ai_lecturenote,71,57,4,10,0,AI_LectureNote
+acuteinflammation_02,gpt4o_ailn_post,71,64,4,3,0,raw gpt-4o-transcribe -> AI_LectureNote post-processing
+anthrax_01,ai_lecturenote,90,78,2,10,0,AI_LectureNote
+anthrax_01,gpt4o_ailn_post,90,76,3,11,0,raw gpt-4o-transcribe -> AI_LectureNote post-processing
+anticancerdrugs_02,ai_lecturenote,40,38,1,1,0,AI_LectureNote
+anticancerdrugs_02,gpt4o_ailn_post,40,37,0,3,0,raw gpt-4o-transcribe -> AI_LectureNote post-processing
+diuretics_01,ai_lecturenote,81,66,2,13,0,AI_LectureNote
+diuretics_01,gpt4o_ailn_post,81,56,6,19,0,raw gpt-4o-transcribe -> AI_LectureNote post-processing
