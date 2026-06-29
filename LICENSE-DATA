@@ -1,0 +1,46 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Copyright (c) 2026 Kyeongeon Lee, Donghoon Chang
+
+This license applies only to the source data files in this repository: the audio
+recordings, transcripts, dataset files, and human annotation files
+(specifically: any released inputs/ audio, and evaluation_paper/data/,
+evaluation_paper/annotations/, and evaluation_paper/manifest/).
+
+It does NOT apply to:
+  - Source code --- including standalone_pipeline/, evaluation_paper/analysis/,
+    and evaluation_paper/annotation_review_app/ --- which is released under the
+    MIT License (see LICENSE-CODE); or
+  - The generated tables and figures in evaluation_paper/outputs/, which are
+    aggregate artifacts released under CC BY 4.0 (see LICENSE-FIGURES).
+
+---
+
+You are free to:
+
+  Share — copy and redistribute the material in any medium or format
+  Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+
+  Attribution — You must give appropriate credit, provide a link to the license,
+  and indicate if changes were made. You may do so in any reasonable manner, but
+  not in any way that suggests the licensor endorses you or your use.
+
+  NonCommercial — You may not use the material for commercial purposes.
+
+Additional restrictions:
+
+  Commercial use of the audio data, including use for training, fine-tuning,
+  evaluating, or deploying commercial speech or generative AI systems, is not
+  permitted without separate written permission from the authors.
+
+  Users must not attempt to identify speakers, clone voices, or generate
+  impersonations of speakers using this dataset.
+
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
+---
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode

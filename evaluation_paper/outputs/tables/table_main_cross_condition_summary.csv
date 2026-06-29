@@ -1,0 +1,6 @@
+﻿condition,condition_label,CER_macro,WER_macro,english_script_rate_macro,korean_phonetic_count_total,polarity_wrong_total,polarity_omitted_total,polarity_failure_total,semantic_drift_total,notes
+whisper1,raw whisper-1,0.3128,0.2966,0.3937,398,7,0,7,N/A,historical raw ASR baseline
+ai_lecturenote,AI_LectureNote,0.3879,0.5843,0.7077,15,8,3,11,34,post-processing pipeline (not raw ASR)
+gpt4o,raw gpt-4o-transcribe,0.3982,0.3067,0.2561,473,11,0,11,N/A,"modern raw ASR, 3-min chunks"
+gpt4o_prompted,prompted gpt-4o-transcribe,0.4342,0.3341,0.2198,429,9,0,9,N/A,preliminary prompt-sensitivity only
+gpt4o_ailn_post,raw gpt-4o-transcribe -> AI_LectureNote post-processing,0.4198,0.6078,0.6468,17,9,4,13,36,diagnostic cross-input control; same post-processing applied to raw gpt-4o output

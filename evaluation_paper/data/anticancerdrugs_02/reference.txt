@@ -1,0 +1,38 @@
+﻿네 오늘은 항암제에 대해서 다뤄보도록 하겠습니다.
+항암제의 중요한 목표는 이제 항암제가 무엇을 target으로 하는지 항암제가 무엇을 target으로 하는지 항암제의 메커니즘은 무엇인지 그리고 임상적으로 어떻게 쓰이는지 이런 것들을 저희가 알아보도록 하겠습니다.
+먼저 항암제의 큰 종류는 이 cytotoxic chemotherapy, targeted therapy, hormonal therapy 그리고 immunotherapy로 나눌 수가 있겠습니다.
+여기서 중요한 콘셉트는 바로 이 항암제들의 타겟이 DNA라든가 enzyme이라든가 receptor이라든가 immune checkpoint가 되겠습니다.
+그래서 이 각각에 대해서 저희가 좀 더 자세히 다뤄보도록 하겠습니다.
+먼저 cytotoxic chemotherapy 같은 경우에는 이 항암제 중에서 rapid dividing cell를 죽이는 그러한 종류의 항암제다라고 볼 수 있겠습니다.
+그래서 얘들의 메인 타깃은 DNA 합성이라든가 DNA 복제 또는 mitotic spindle이 되겠습니다.
+예를 자세하게 좀 더 나누면 antimetabolite 또는 alkylating agents, antitumor antibiotics 또는 microtubule inhibitors 같은 것들이 있겠습니다.
+그래서 얘들은 기본적으로 이 급격하게 분열하는 세포를 모두 이 무분별하게 죽이기 때문에 toxicity가 일반적으로 이제 분열하는 이 정상 조직에도 가질 수가 있다라는 것이 하나의 특징점이 되겠습니다.
+antimetabolite 같은 경우에는 DNA 합성 쪽에 관여를 하고요.
+그래서 nucleotide 합성이라든가 nucleotide 통합 이쪽에 간섭을 하게 됩니다.
+따라서 이제 이 tumor cell의 S-phase progression을 진행하는 거를 억제를 하게 되고요.
+그래서 얘에 대한 이제 Representative concept는 DNA synthesis inhibitor가 되겠고요.
+그래서 얘들은 이제 phase-specific하다라는 것이 특징이 되겠습니다.
+alkylating agents 같은 경우에는 DNA에 직접 작용을 하고요.
+이 어떻게 작용하는가라고 하면은 DNA에 cross-link를 형성을 해서 이 DNA 복제를 막는다라고 볼 수 있겠습니다.
+그래서 DNA가 이로 인해서 데미지를 받고 세포사를 유도한다라고 이야기를 할 수 있겠고요.
+그래서 얘들은 이 phase의 specific하지 않다라고 이야기를 할 수 있겠습니다.
+microtubule inhibitors 같은 경우에는 기본적으로 mitotic spindle에 작용을 하고요.
+그래서 microtubule의 조립이라든가 분해에 관여를 하게 됩니다.
+그래서 이 아이들은 이제 M-phase arrest 에 관여를 합니다.
+그래서 이 M-phase가 arrest 되기 때문에 cell의 division 자체가 막힌다라고 이야기를 할 수 있겠죠.
+이제 cytotoxic chemotherapy로 넘어가서 targeted therapy를 이야기를 할 건데요.
+여기는 이제 specific molecular target을 이제 목표로 한다라고 이야기할 수 있겠습니다.
+그래서 대표적으로 Tyrosine kinase inhibitor 또는 Monoclonal antibody, Signal transduction inhibitor이 있겠고요.
+얘들을 위한 타겟은 EGFR, HER2, BCR-ABL 또는 VEGF Pathway가 있겠습니다.
+그래서 이 targeted therapy는 기본적으로 classical cytotoxic chemotherapy보다 훨씬 더 selective하다.
+그래서 환자 중심적으로 치료를 할 수 있다라는 것이 장점이 되겠습니다.
+그 외에 hormonal therapy가 있겠는데요. 여기는 이제 hormone-dependent tumor을 치료하는 데 쓰이게 됩니다.
+이 아이들의 종류는 Aromatase inhibitor이라든가 SERMs 또는 Antiandrogen이 있겠고요.
+이 hormonal therapy가 중점적으로 타깃을 갖는 것은 Estrogen 또는 Androgen receptor이 되겠습니다.
+따라서 이 항암제들은 기본적으로 tumor growth가 endocrine signaling에 의해서 이제 판단이 되어질 때 이 therapy를 사용한다라고 볼 수 있겠습니다.
+마지막으로 immunotherapy 같은 경우에는 기본적으로 이 anti-tumor immune response 를 좀 더 강화하는 역할이고요.
+어 여기에 대한 분류는 Immune checkpoint inhibitor, Monoclonal antibody 또는 Cellular therapy가 있겠습니다.
+타겟으로 하는 것은 PD-1, PD-L1, CTLA-4가 있겠고요.
+이 immunotherapy의 목표는 기본적으로 immune 억제를 없애고 그리고 T-Cell activity를 다시 복원하는 것으로 알려져 있습니다.
+따라서 오늘은 이 기본적으로 항암제들의 분류 그리고 그 항암제들의 자세한 종류와 기전을 다뤄보았습니다.
+이것으로 녹음을 마치도록 하겠습니다. 감사합니다.

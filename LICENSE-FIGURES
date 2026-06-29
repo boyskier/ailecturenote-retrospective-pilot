@@ -1,0 +1,34 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Kyeongeon Lee, Donghoon Chang, Seungryeol Baek, Taehong Kim, Wonjun Yang
+
+This license applies to the generated tables and figures in this repository
+(specifically: evaluation_paper/outputs/). These are aggregate statistical
+tables and figures derived from the analysis; they contain no audio and no
+identifiable personal data. They are the same tables and figures that appear in
+the accompanying arXiv technical report.
+
+You are free to:
+
+  Share — copy and redistribute the material in any medium or format
+  Adapt — remix, transform, and build upon the material
+  for any purpose, even commercially.
+
+Under the following terms:
+
+  Attribution — You must give appropriate credit, provide a link to the license,
+  and indicate if changes were made. You may do so in any reasonable manner, but
+  not in any way that suggests the licensor endorses you or your use.
+
+No additional restrictions — You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
+This license does NOT apply to:
+  - the source data files (audio recordings, transcripts, dataset files, and
+    human annotation files), which are released under CC BY-NC 4.0
+    (see LICENSE-DATA); or
+  - the source code, which is released under the MIT License (see LICENSE-CODE).
+
+---
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode

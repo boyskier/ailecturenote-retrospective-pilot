@@ -1,0 +1,26 @@
+﻿lecture_id,condition,ref_term_occurrences,english_preserved,english_script_rate,korean_phonetic_count,unique_terms_total,unique_terms_preserved,unique_term_recall,condition_label
+acuteinflammation_02,whisper1,329.0,53.0,0.1611,189.0,156.0,29.0,0.1859,raw whisper-1
+acuteinflammation_02,ai_lecturenote,329.0,255.0,0.7751,5.0,156.0,124.0,0.7949,AI_LectureNote
+acuteinflammation_02,gpt4o,329.0,102.0,0.31,162.0,156.0,55.0,0.3526,raw gpt-4o-transcribe
+acuteinflammation_02,gpt4o_prompted,329.0,47.0,0.1429,160.0,156.0,30.0,0.1923,prompted gpt-4o-transcribe
+acuteinflammation_02,gpt4o_ailn_post,329.0,276.0,0.8389,2.0,156.0,133.0,0.8526,raw gpt-4o-transcribe -> AI_LectureNote post-processing
+anthrax_01,whisper1,147.0,82.0,0.5578,33.0,78.0,43.0,0.5513,raw whisper-1
+anthrax_01,ai_lecturenote,147.0,79.0,0.5374,7.0,78.0,46.0,0.5897,AI_LectureNote
+anthrax_01,gpt4o,147.0,16.0,0.1088,110.0,78.0,8.0,0.1026,raw gpt-4o-transcribe
+anthrax_01,gpt4o_prompted,147.0,35.0,0.2381,87.0,78.0,16.0,0.2051,prompted gpt-4o-transcribe
+anthrax_01,gpt4o_ailn_post,147.0,77.0,0.5238,10.0,78.0,38.0,0.4872,raw gpt-4o-transcribe -> AI_LectureNote post-processing
+anticancerdrugs_02,whisper1,89.0,72.0,0.809,5.0,52.0,41.0,0.7885,raw whisper-1
+anticancerdrugs_02,ai_lecturenote,89.0,67.0,0.7528,1.0,52.0,40.0,0.7692,AI_LectureNote
+anticancerdrugs_02,gpt4o,89.0,48.0,0.5393,34.0,52.0,30.0,0.5769,raw gpt-4o-transcribe
+anticancerdrugs_02,gpt4o_prompted,89.0,28.0,0.3146,52.0,52.0,13.0,0.25,prompted gpt-4o-transcribe
+anticancerdrugs_02,gpt4o_ailn_post,89.0,45.0,0.5056,0.0,52.0,25.0,0.4808,raw gpt-4o-transcribe -> AI_LectureNote post-processing
+diuretics_01,whisper1,256.0,12.0,0.0469,171.0,102.0,7.0,0.0686,raw whisper-1
+diuretics_01,ai_lecturenote,256.0,196.0,0.7656,2.0,102.0,88.0,0.8627,AI_LectureNote
+diuretics_01,gpt4o,256.0,17.0,0.0664,167.0,102.0,11.0,0.1078,raw gpt-4o-transcribe
+diuretics_01,gpt4o_prompted,256.0,47.0,0.1836,130.0,102.0,27.0,0.2647,prompted gpt-4o-transcribe
+diuretics_01,gpt4o_ailn_post,256.0,184.0,0.7188,5.0,102.0,80.0,0.7843,raw gpt-4o-transcribe -> AI_LectureNote post-processing
+MACRO_AVG,whisper1,,,0.3937,,,,0.3986,raw whisper-1
+MACRO_AVG,ai_lecturenote,,,0.7077,,,,0.7541,AI_LectureNote
+MACRO_AVG,gpt4o,,,0.2561,,,,0.285,raw gpt-4o-transcribe
+MACRO_AVG,gpt4o_prompted,,,0.2198,,,,0.228,prompted gpt-4o-transcribe
+MACRO_AVG,gpt4o_ailn_post,,,0.6468,,,,0.6512,raw gpt-4o-transcribe -> AI_LectureNote post-processing

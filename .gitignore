@@ -1,0 +1,69 @@
+# API keys & secrets
+.env
+
+# Generated pipeline outputs, including optional KG artifacts.
+# Not part of the paper release.
+products/
+standalone_pipeline/products/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Local tools
+.tools/
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp audio segments
+temp_segment_*.mp3
+temp_segment_*
+standalone_pipeline/temp_segment_*
+
+# CSV outputs from runs
+dfg1.csv
+pages_df.csv
+standalone_pipeline/data/cleaned_text.csv
+
+# Annotation review app backups
+evaluation_paper/annotation_review_app/backups/
+evaluation_paper/annotation_review_app/samples/
+evaluation_paper/annotation_review_app/ANNOTATION_REVIEW_SUMMARY.md
+
+# Logs
+*.log
+
+# LaTeX build artifacts
+*.tex
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.dvi
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.xdv
+evaluation_paper/*.pdf
+
+# Local build scripts
+*.ps1

@@ -1,0 +1,6 @@
+﻿scope,comparison,n_items,same_verdict,agreement_rate,both_correct,both_fail,disagree,a_failures,b_failures,shared_failures,union_failures,failure_jaccard
+acuteinflammation_02,ai_lecturenote vs gpt4o_ailn_post,21,21,1.0,20,1,0,1,1,1,1,1.0
+anthrax_01,ai_lecturenote vs gpt4o_ailn_post,24,23,0.9583,23,0,1,0,1,0,1,0.0
+anticancerdrugs_02,ai_lecturenote vs gpt4o_ailn_post,10,10,1.0,10,0,0,0,0,0,0,0.0
+diuretics_01,ai_lecturenote vs gpt4o_ailn_post,46,41,0.8913,33,8,5,10,11,8,13,0.6154
+ALL,ai_lecturenote vs gpt4o_ailn_post,101,95,0.9406,86,9,6,11,13,9,15,0.6
