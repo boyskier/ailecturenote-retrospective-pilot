@@ -4,8 +4,8 @@ This repository is the public release for the AI_LectureNote retrospective pilot
 
 The manuscript itself is published separately as an arXiv technical report and is **not** included in this repository. This repository provides the code, source data, human annotations, and generated tables/figures needed to reproduce and inspect the evaluation.
 
-> arXiv technical report: link to be added.
-
+> **arXiv technical report:** [arXiv:2607.17237](https://arxiv.org/abs/2607.17237)
+> 
 The repository has two intentionally separate areas:
 
 - `evaluation_paper/`: reproducible evaluation workspace with the annotation protocol, source data, human annotation CSVs, analysis scripts, and generated tables/figures.
